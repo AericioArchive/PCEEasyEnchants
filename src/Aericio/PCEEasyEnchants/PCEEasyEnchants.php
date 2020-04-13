@@ -16,7 +16,7 @@ class PCEEasyEnchants extends PluginBase
     /**
      * @throws \ReflectionException
      */
-    public function onEnable()
+    public function onEnable(): void
     {
         $this->saveDefaultConfig();
 

@@ -1,0 +1,8 @@
+name: PCEEasyEnchants
+main: Aericio\PCEEasyEnchants\PCEEasyEnchants
+version: 1.0.0
+api: 3.11.2
+load: POSTWORLD
+author: Aericio
+depend: [PiggyCustomEnchants]
+website: "https://github.com/Aericio/PCEEasyEnchants/"

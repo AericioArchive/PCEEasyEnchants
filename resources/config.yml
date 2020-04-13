@@ -1,0 +1,31 @@
+# PCEEasyEnchants Configuration
+# "enchants.id" should increment from 1000, using any ids below 1000 is highly discouraged.
+
+enchants:
+  - id: 1000
+    name: "starve"
+    effects:
+      - id: "hunger"
+        amplifier:
+          base: 0
+          multiplier: 1
+        duration:
+          base: 60
+          multiplier: 1
+  - id: 1001
+    name: "sloth"
+    effects:
+      - id: "slowness"
+        amplifier:
+          base: 0
+          multiplier: 1
+        duration:
+          base: 60
+          multiplier: 1
+      - id: "strength"
+        amplifier:
+          base: 0
+          multiplier: 1
+        duration:
+          base: 60
+          multiplier: 1

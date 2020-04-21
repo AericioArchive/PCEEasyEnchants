@@ -49,7 +49,7 @@ PCEEasyEnchants is an extension to the [PiggyCustomEnchants](https://github.com/
           "starve": "Rare"
         }
         ```
-    * `maxlevel.json`: Allows you to modify the maximum level of the enchantment.
+    * `max_levels.json`: Allows you to modify the maximum level of the enchantment.
         
         ```json
         {
